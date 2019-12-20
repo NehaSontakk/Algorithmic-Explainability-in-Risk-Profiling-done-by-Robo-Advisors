@@ -1,5 +1,0 @@
-Stratified
-
-Random
-
-Categorical Random
