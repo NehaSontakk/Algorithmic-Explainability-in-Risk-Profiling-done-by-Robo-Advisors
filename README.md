@@ -1,6 +1,6 @@
-# AT-Risk-Assessment
+# Operationalizing explanations of the risk profiling algorithm used by robo financial advisory apps.
 <br>
-Introduction
+# Why?
 <br>
 Contents of the repository
 <br>
