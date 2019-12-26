@@ -15,8 +15,30 @@ Questions were gathered using many robo financial advisory app questionnaires. T
 <img src="Images/Paper2.png" width="1001" height="520" align="middle"/>
 
 ## Contents of the Repository
-<br>
-Instructions of use
-<br>
-Presented at
+
+1.  Generation of total data, initial analysis and sampling.
+    1.  Polynomial Data 
+    2.  Linear Data
+    3.  Quadratic Data
+    4.  Logarithmic Data
+2.  __Operationalizing_Explanations.ipynb__ : Explanations of the data sample
+    1.  Modelling the dataset
+    2.  Global Explanations
+        a.  Feature Importances
+        b.  Feature Relations
+    3.  Local Explanations
+3.  __Risk_Data_Sampling.ipynb__ : Using the polynomial data with different sampling strategies
+    1.  Random Sampling
+    2.  Stratified Sampling
+    3.  Categorical Random Sampling
+4.  __Sample_Size_Analysis.ipynb__ : Analysing effect of different training sizes on best fit line accuracies.
+
+
+#### Using this Repository
+
+This repository is mainly used to display the analysis behind the paper. An automated tool to do the same is under construction. After downloading the repository unzip all the data files.
+
+
+## Conferences 
+[Data Governance Network](http://datagovernance.org/research?topic=&search=)
 
