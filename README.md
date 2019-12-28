@@ -42,3 +42,5 @@ This repository is mainly used to display the analysis behind the paper. An auto
 ## Conferences 
 [Data Governance Network](http://datagovernance.org/research?topic=&search=)
 
+### Interesting Links
+[Sebi bans investment advisors from providing free trials of services](https://www.livemint.com/market/stock-market-news/sebi-tightens-norms-for-investment-advisors-in-india-11577453148135.html)
