@@ -43,7 +43,7 @@ This repository is mainly used to display the analysis behind the paper. An auto
 [Changing Landscape of Securities (CLSM) Market by SEBI and NISM](https://www.nism.ac.in/SM2020/) <br>
 [Data Governance Network](http://datagovernance.org/research?topic=&search=)
 
-## Honors
+## Honours
 Best Research Paper at CLSM (1st out of 56 shortlisted from 160 submissions)
 
 ### Interesting Links
