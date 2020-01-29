@@ -39,8 +39,12 @@ Questions were gathered using many robo financial advisory app questionnaires. T
 This repository is mainly used to display the analysis behind the paper. An automated tool to do the same is under construction. After downloading the repository unzip all the data files.
 
 
-## Conferences 
+## Presented at the following conferences
+[Changing Landscape of Securities (CLSM) Market by SEBI and NISM](https://www.nism.ac.in/SM2020/) <br>
 [Data Governance Network](http://datagovernance.org/research?topic=&search=)
+
+## Honors
+Best Research Paper at CLSM (1st out of 56 shortlisted from 160 submissions)
 
 ### Interesting Links
 [Sebi bans investment advisors from providing free trials of services](https://www.livemint.com/market/stock-market-news/sebi-tightens-norms-for-investment-advisors-in-india-11577453148135.html)
