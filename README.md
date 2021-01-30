@@ -13,6 +13,9 @@ The detailed reasoning behind the methodology used is presented in our research 
 Questions were gathered using many robo financial advisory app questionnaires. These questions and their respective answers were assigned scores according to the table given below. Four different equations were used to create different types of datasets, with different relationships. These datasets were then sampled (After chosing an appropriate size using the sampling analysis) to represent data given to a regulator. Reverse engineering the equations and explanations are found from these samples of data. The entire method as well as our thought process behind the study is explained further in the paper.
 <br>
 <img src="Images/Paper2.png" width="1001" height="520" align="middle"/>
+<br>
+<img src="Images/process.png" width="1001" height="520" align="middle"/>
+
 
 ## Contents of the Repository
 
@@ -42,9 +45,10 @@ This repository is mainly used to display the analysis behind the paper. An auto
 ## Presented at the following conferences
 [Changing Landscape of Securities (CLSM) Market by SEBI and NISM](https://www.nism.ac.in/SM2020/) <br>
 [Data Governance Network](http://datagovernance.org/research?topic=&search=)
+Mechanism Design For Social Good 2020
 
 ## Honours
-Best Research Paper at CLSM (1st out of 56 shortlisted from 160 submissions)
+Best Research Paper at CLSM (1st out of 56 shortlisted from 160+ submissions)
 
 ### Interesting Links
 [Sebi bans investment advisors from providing free trials of services](https://www.livemint.com/market/stock-market-news/sebi-tightens-norms-for-investment-advisors-in-india-11577453148135.html)
