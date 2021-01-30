@@ -44,7 +44,7 @@ This repository is mainly used to display the analysis behind the paper. An auto
 
 ## Presented at the following conferences
 [Changing Landscape of Securities (CLSM) Market by SEBI and NISM](https://www.nism.ac.in/SM2020/) <br>
-[Data Governance Network](http://datagovernance.org/research?topic=&search=)
+[Data Governance Network](http://datagovernance.org/research?topic=&search=) <br>
 Mechanism Design For Social Good 2020
 
 ## Honours
